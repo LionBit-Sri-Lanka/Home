@@ -46,3 +46,8 @@ lib_deps =
 
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/platformIo_ini.png?raw=true)
 
+# LionBit Settings - (STEP:7) Lion::Bit Dev Board Example 
+
+![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/Example.png?raw=true)
+
+
