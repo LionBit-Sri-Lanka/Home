@@ -42,3 +42,7 @@ lib_deps =
 
 
 
+# LionBit Settings - (STEP:6) platformio.ini settings 
+
+![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/platformIo_ini.png?raw=true)
+
