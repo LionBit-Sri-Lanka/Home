@@ -51,3 +51,14 @@ lib_deps =
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/Example.png?raw=true)
 
 
+# LionBit Settings - (STEP:7) Lion::Bit Library "IncludePath" 
+
+![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/libSettings.png?raw=true)
+
+```
+${workspaceFolder}/**
+
+```
+# LionBit Settings - (STEP:7) Lion::Bit Library "${workspaceFolder}/**" 
+
+![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/workspaceFolder.png?raw=true)
