@@ -35,9 +35,7 @@ framework = arduino
 lib_deps = 
 	https://github.com/LionBit-Sri-Lanka/main_libs.git
 	https://github.com/LionBit-Sri-Lanka/main_display.git
-	adafruit/Adafruit BusIO@^1.10.1
-	adafruit/Adafruit GFX Library@^1.10.12
-	adafruit/Adafruit ST7735 and ST7789 Library@^1.8.1
+	
 ```
 
 
