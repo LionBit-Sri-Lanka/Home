@@ -37,8 +37,8 @@
     "speed" : 115200
   },
  
-  "name": "LionBit",
+  "name": "Lion:Bit Dev Board",
   "version": "1.2",
   "url": "http://lionbit.lk/",
-  "vendor": "Lion::Bit"
+  "vendor": "LionBit.lk"
 }
