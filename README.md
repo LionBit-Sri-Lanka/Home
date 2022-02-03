@@ -35,6 +35,7 @@ framework = arduino
 lib_deps = 
 	https://github.com/LionBit-Sri-Lanka/main_libs.git
 	https://github.com/LionBit-Sri-Lanka/main_display.git
+	https://github.com/LionBit-Sri-Lanka/wifiupload.git
 	
 ```
 
