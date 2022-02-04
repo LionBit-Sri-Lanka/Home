@@ -35,6 +35,7 @@ platform = espressif32
 board = lionbit
 monitor_speed = 115200 
 simultaneous_upload_ports = lionbit.local:3232, /dev/ttyUSB*,  COM*
+monitor_filters = time, esp32_exception_decoder
 framework = arduino
 
 lib_deps = 
