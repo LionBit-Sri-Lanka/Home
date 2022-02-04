@@ -1,32 +1,32 @@
 
 # How to setup Lion:Bit Dev Board and build the program with PlatformIo
 
-# LionBit Settings - (STEP:1) MAIN WINDOW
+##  LionBit Settings - (STEP:1) MAIN WINDOW
 
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/Q-Access.png?raw=true)
 
 
-# LionBit Settings - (STEP:2) PLATFORMIO HOME 
+## LionBit Settings - (STEP:2) PLATFORMIO HOME 
 
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/platformIO_home.png?raw=true)
 
 
-# LionBit Settings - (STEP:3) QUICK ACCESS
+## LionBit Settings - (STEP:3) QUICK ACCESS
 
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/project_Wizard.png?raw=true)
 
 
-# LionBit Settings - (STEP:4) PROJECT WIZARD
+## LionBit Settings - (STEP:4) PROJECT WIZARD
 
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/New_Project.png?raw=true)
 
 
-# LionBit Settings - (STEP:5) SIDE WINDOW
+## LionBit Settings - (STEP:5) SIDE WINDOW
 
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/side_bar.png?raw=true)
 
 
-# Update the  platformio.ini file as follows
+## Update the  platformio.ini file as follows
 
 
 ```
@@ -44,16 +44,16 @@ lib_deps =
 
 
 
-# LionBit Settings - (STEP:6) platformio.ini settings 
+## LionBit Settings - (STEP:6) platformio.ini settings 
 
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/platformIo_ini.png?raw=true)
 
-# LionBit Settings - (STEP:7) Lion::Bit Dev Board Example 
+## LionBit Settings - (STEP:7) Lion::Bit Dev Board Example 
 
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/Example.png?raw=true)
 
 
-# LionBit Settings - (STEP:7) Lion::Bit Library "IncludePath" 
+## LionBit Settings - (STEP:7) Lion::Bit Library "IncludePath" 
 
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/libSettings.png?raw=true)
 
@@ -61,6 +61,6 @@ lib_deps =
 ${workspaceFolder}/**
 
 ```
-# LionBit Settings - (STEP:7) Lion::Bit Library "${workspaceFolder}/**" 
+## LionBit Settings - (STEP:7) Lion::Bit Library "${workspaceFolder}/**" 
 
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/workspaceFolder.png?raw=true)
