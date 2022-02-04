@@ -1,4 +1,6 @@
 
+# How to setup Lion:Bit Dev Board and build the program with PlatformIo
+
 # LionBit Settings - (STEP:1) MAIN WINDOW
 
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/Q-Access.png?raw=true)
@@ -24,7 +26,8 @@
 ![After Installed](https://github.com/LionBit-Sri-Lanka/Home/blob/main/side_bar.png?raw=true)
 
 
-# Install Libs platformio.ini
+# Update the  platformio.ini file as follows
+
 
 ```
 [env:lionbit]
